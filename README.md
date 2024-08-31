@@ -1,34 +1,35 @@
 # Excel-Sales-Finance Analytics
 ## Sales Report
 
-- **-Project objective:**
--  Assessment of Key Sales indicators of an Hardware companies (Atliq) between 2019 and 2021:
+- **Project objective:**
+-  Assessment of Key Sales indicators of an Hardware companies (Atliq) between 2019 and 2021 by:
 
-    **1.** Creation a _[Customer Performance Report](https://github.com/ABR-data/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)
-   
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/SnehaJainapur/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+    **1.** Creation of a [Customer Performance report](https://github.com/ABR-data/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+    **2.** Creation of a [Market performance and Sales targets report](https://github.com/SnehaJainapur/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
-- **Importance of analyzing Sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Purpose of Sales analytics reports:** Evaluate the Sales activities and performance of the company  
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Importance of analyzing Sales data:** Identify the patterns and track key performance indicators (KPIs) for the Sales department.
+
+- **Role of reports::** Help business decision, determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
 ## Finance Report
 
 - **Project objective:**
+-   Assessment of Key Financial indicators of an Hardware companies (Atliq) between 2019 and 2021 by:
   
+    **1.** [Creation of a Profit and Loss (P&L) statement by Fiscal Year](https://github.com/SnehaJainapur/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20By%20Fiscal%20Years.pdf) and Months
+  (https://github.com/SnehaJainapur/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20By%20Fiscal%20Months.pdf)]
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/SnehaJainapur/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20By%20Fiscal%20Years.pdf)_ & _[Months](https://github.com/SnehaJainapur/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20By%20Fiscal%20Months.pdf)_ 
+   **2.** Creation of a Profit and Loss (P&L) reports by _[Markets](https://github.com/SnehaJainapur/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20By%20Markets.pdf)_
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/SnehaJainapur/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20By%20Markets.pdf)_
+- **Purpose of finance analytics:** Evaluate the financial performance, support decision-making, and facilitate communication with stakeholders.
 
-- **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Importance of analyzing Finance data:** Aid in benchmarking the company against industry peers and previous periods, foundation for budgeting and forecasting.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of reports:** Align financial planning with strategic goals, instill confidence in the organization's financial outlook.
 
 
 ## Technical Skills:
