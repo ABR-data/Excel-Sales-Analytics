@@ -4,7 +4,7 @@
 - **Project objective:**
 -  Assessment of Key Sales indicators of an Hardware company(Atliq) between 2019 and 2021 by:
 
-    **1.** Creation of a [Customer Performance Report](https://github.com/ABR-data/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+    **1.** Creation of a [Customer Performance Report](https://github.com/ABR-data/Excel_Sales-Finance_Analytics/blob/main/CUSTOMER%20PERFORMANCE%20REPORT.pdf)
 
     **2.** Creation of a [Market Performance and Sales targets Report](https://github.com/SnehaJainapur/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
